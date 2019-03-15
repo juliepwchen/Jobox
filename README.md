@@ -38,7 +38,7 @@
   
 ### Screen Shots
 
-1. Landing Page (Click on one of the item on the list to see Q&A related to the Topic.)
+1. Landing Page (Click on one of the item on the list to see Q&A related to the item.)
 ![alt text](./githubimg/QAList.png)
 
 2. Q&A Panel (Click on the item again, the Q&A Panel will go away.)
