@@ -1,0 +1,21 @@
+.qaitem {
+    margin: 0px !important;
+    padding: 10px !important;
+}
+
+.label {
+    text-align: center !important;
+    margin: 20px !important;
+    color: black;
+}
+
+.circularbutton {
+    border: 1px solid Fuchsia !important;
+    color: Fuchsia !important;
+    background-color: Transparent !important;
+}
+
+.avatarimage {
+    border: 1px solid black !important;
+    padding: 5px !important;
+}
