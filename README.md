@@ -36,3 +36,10 @@
 1. Cross Origin Resource Sharing (CORS)
   - Browser has a default Security machanism to prevent HTTP Requests issuing from one Domain (http://localhost:3000) to another Domain Server (http://localhost:8081).  This is resolved by adding cors library in Server.
   
+### Screen Shots
+
+1. Landing Page (Click on one of the item on the list to see Q&A related to the Topic.)
+![alt text](./githubimg/QAList.png)
+
+2. Q&A Panel (Click on the item again, the Q&A Panel will go away.)
+![alt text](./githubimg/QADetails.png)
