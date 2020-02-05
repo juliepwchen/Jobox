@@ -4,7 +4,7 @@
 
 ### Instructions
 
-1. Type "npm start" under /slice/server directory. Server starts at "http://localhost:8081".
+1. Type "npm start" under /slice/server directory. Server starts at "http://localhost:8081/api/qa".
 2. Type "npm start" under /slice/client directory.  App starts at "http://localhost:3000".
 
 ### Technologies
